@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TeroJii. Great to see you here!
 - 👀 I’m interested in data science, visualizations, etc.
-- 🌱 I’m currently learning to write better code in R and how to make R packages and websites with Quarto.
+- 🌱 I’m currently learning to write more elegant R packages.
+- 💡 Containerized code and applications with Docker are fascinating.
 
 
 <!---
